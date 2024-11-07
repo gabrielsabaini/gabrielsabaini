@@ -13,5 +13,8 @@ Chorder - Available in [App Store](https://apps.apple.com/br/app/chorder/id64820
 - Description: An iOS App to help musicians in recording new songs and Ideas.
 - Technologies used: Swift, SwiftUI, AVFoundation, SwiftData
 
+Tentalculos - Available in [App Store](https://apps.apple.com/br/app/tent%C3%A1lculos/id6477624788)
+- Description: A mobile game for kids to learn basic equations.
+- Technologies: Swift, SwiftUI, GameKit, SpriteKit
   
 ### Connect with me: [Linkedin!](www.linkedin.com/in/gabrielsabaini)
