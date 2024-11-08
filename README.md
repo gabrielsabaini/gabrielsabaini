@@ -16,5 +16,9 @@ Chorder - Available in [App Store](https://apps.apple.com/br/app/chorder/id64820
 Tentalculos - Available in [App Store](https://apps.apple.com/br/app/tent%C3%A1lculos/id6477624788)
 - Description: A mobile game for kids to learn basic equations.
 - Technologies: Swift, SwiftUI, GameKit, SpriteKit
+
+Sinale - Available in [App Store](https://apps.apple.com/br/app/sinale/id6469059425)
+- Description: An App about events for the deaf community.
+- Technologies: Swiftm, SwiftUI, CoreData, APIs, Notification
   
 ### Connect with me: [Linkedin!](www.linkedin.com/in/gabrielsabaini)
